@@ -1,3 +1,9 @@
+### NOTES
+
+This is a fork of the original step to allow manipulation of config version.
+
+Added property to edit the widget version.
+
 # cordova-config
 
 Manipulate cordova config.xml main attributes
