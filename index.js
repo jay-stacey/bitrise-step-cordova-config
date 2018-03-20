@@ -10,6 +10,8 @@ const NAME = process.env['name'];
 const ID = process.env['id'];
 const VERSION = process.env['version'];
 
+log(process.env);
+
 const ANDROID_VERSION_CODE = process.env['android_version_code'];
 const ANDROID_PACKAGE_NAME = process.env['android_package_name'];
 const IOS_BUNDLE_VERSION = process.env['ios_bundle_version'];
