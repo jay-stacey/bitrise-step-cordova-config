@@ -30,7 +30,6 @@ if(ID) {
   log('id', ID);
 }
 
-log('should set version to', VERSION);
 if(VERSION) {
   config.setVersion(VERSION);
 
