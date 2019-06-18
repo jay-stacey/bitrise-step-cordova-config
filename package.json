@@ -13,6 +13,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "cordova-config": "videmort/cordova-config"
+    "config-cordova": "github:videmort/cordova-config"
   }
 }

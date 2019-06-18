@@ -1,4 +1,4 @@
-const Config = require('cordova-config');
+const Config = require('config-cordova');
 const path = require('path');
 
 const { log } = require('./lib/utils')
