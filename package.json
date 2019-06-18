@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "config-cordova": "github:videmort/cordova-config",
+    "config-cordova": "github:jay-stacey/cordova-config",
     "fs-extra": "^8.0.1"
   }
 }
